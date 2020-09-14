@@ -19,18 +19,24 @@ A Python notebook contains the totality of our procedure.
 A tableau workbook was created to creating our reports and our final presentation and analysis.
 
 ## Participants
-Anna Wrobel
-Latyr Thiao
-Leah Lindy
-Lujane Abdelgadir
-Prajakta Kalvankar
-Stephen Zhang
+* Anna Wrobel
+* Latyr Thiao
+* Leah Lindy
+* Lujane Abdelgadir
+* Prajakta Kalvankar
+* Stephen Zhang
 
 
 
 ## Results
+
+https://public.tableau.com/profile/latyr#!/vizhome/Combined_Weather_15999108337820/Presentation
+
 ![GitHub Logo](Presentation_1.png)
+
 ![GitHub Logo](Presentation_2.png)
+
+
 
 
 
