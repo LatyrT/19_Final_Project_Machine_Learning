@@ -18,8 +18,7 @@ A Python notebook contains the totality of our procedure.
 
 A tableau workbook was created to creating our reports and our final presentation and analysis.
 
-## Methods
-
+## Participants
 Anna Wrobel
 Latyr Thiao
 Leah Lindy
@@ -28,6 +27,8 @@ Prajakta Kalvankar
 Stephen Zhang
 
 
+
+## Results
 ![GitHub Logo](Presentation_1.png)
 ![GitHub Logo](Presentation_2.png)
 
