@@ -26,11 +26,10 @@ A tableau workbook was created to creating our reports and our final presentatio
 * Prajakta Kalvankar
 * Stephen Zhang
 
-
+## Website or Links
+https://public.tableau.com/profile/latyr#!/vizhome/Combined_Weather_15999108337820/Presentation
 
 ## Results
-
-https://public.tableau.com/profile/latyr#!/vizhome/Combined_Weather_15999108337820/Presentation
 
 ![GitHub Logo](Presentation_1.png)
 
