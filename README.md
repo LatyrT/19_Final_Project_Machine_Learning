@@ -1,6 +1,8 @@
 # 19_NYC_Weather_Forecast_Machine_Learning_Project 
 
-![GitHub Logo](Weather_Predictions.jpg)
+<p align="center">
+  <img src="Weather_Predictions.jpg">
+</p>
 
 In this assignment, we are using machine learning to predict the weather forecasts for New York City. 
 
