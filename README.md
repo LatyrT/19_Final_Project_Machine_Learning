@@ -25,7 +25,7 @@ A tableau workbook was created to creating our reports and our final presentatio
 * Latyr Thiao
 * Leah Lindy
 * Lujane Abdelgadir
-* Prajakta Kalvankar
+* Prajakta Galvankar
 * Stephen Zhang
 
 ## Website or Links
